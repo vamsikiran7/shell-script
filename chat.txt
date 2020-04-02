@@ -1,0 +1,7 @@
+10:30:43	 From  Akhilesh Kumar : EC2
+10:30:45	 From  Akhilesh Kumar : S3
+10:30:53	 From  Akhilesh Kumar : Blob storage
+10:30:57	 From  Akhilesh Kumar : File Storage
+10:31:35	 From  Akhilesh Kumar : How ssh works ?
+10:32:09	 From  Akhilesh Kumar : EBS
+10:32:29	 From  Akhilesh Kumar : IAM/ Lambda
